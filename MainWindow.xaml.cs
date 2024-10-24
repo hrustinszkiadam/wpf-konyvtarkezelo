@@ -82,7 +82,7 @@ namespace konyvtarkezelo
 			string message = "";
 			foreach (Konyv k in Konyv.konyvek)
 			{
-				message += k.ToString() + "\n";
+				message += k + "\n";
 			}
 			MessageBox.Show(message, "Könyvek", MessageBoxButton.OK);
 		}
