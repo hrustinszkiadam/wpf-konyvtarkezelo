@@ -39,9 +39,8 @@ azokat. Az alkalmazásnak a következő funkciókat kell tartalmaznia:
 
 **Plusz** **pontért** **feladat:**
 
-**Könyvek** **szerkesztése**: Adjunk hozzá egy funkciót, amely lehetővé
-teszi a könyv címének vagy műfajának szerkesztését.
-
-**Fájlba** **mentés** **és** **betöltés**: Készítsünk funkciót, amely
-lehetővé teszi a könyvek elmentését egy fájlba, majd későbbi
-betöltésüket.
+> **Könyvek** **szerkesztése**: Adjunk hozzá egy funkciót, amely lehetővé
+> teszi a könyv címének vagy műfajának szerkesztését.
+>
+> **Fájlba** **mentés** **és** **betöltés**: Készítsünk funkciót, amely
+> lehetővé teszi a könyvek elmentését egy fájlba, majd későbbi betöltésüket.
